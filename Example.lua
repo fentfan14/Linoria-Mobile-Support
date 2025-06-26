@@ -1,7 +1,7 @@
--- New example script written by wally
+-- New example script written by fentfan_14
 -- You can suggest changes with a pull request or something
 
-local repo = 'https://raw.githubusercontent.com/LionTheGreatRealFrFr/MobileLinoriaLib/main/'
+local repo = 'https://raw.githubusercontent.com/fentfan14/Linoria-Mobile-Support/main/'
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
