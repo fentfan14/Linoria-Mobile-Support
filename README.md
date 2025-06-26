@@ -27,4 +27,4 @@ A Roblox UI library inspired by Splix, BBot and many others.
 - Wally: Cleaning up verbose code, extending library functionality.
 - Stefanuk: Extending library functionality.
 - matas3535: Creator of Splix.
-- LionTheGyat: Mobile modification.
+- fentfan_14: Mobile modification.
